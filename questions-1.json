@@ -30,14 +30,14 @@
     "answer": "Bharat Ratna"
   },
   {
-    "question": "What organ in the human body purifies the blood?",
-    "options": ["Heart", "Liver", "Lung", "Kidney"],
-    "answer": "Kidney"
+    "question": "Which fort in Telangana is known for its acoustic architecture (clap echo system)?",
+    "options": ["Warangal Fort", "Bhongir Fort", "Golconda Fort", "Elgandal Fort"],
+    "answer": "Golconda Fort"
   },
   {
-    "question": "Which software is used to create documents?",
-    "options": ["Ms Paint", "Ms Word", "Ms Excel", "Ms Power point"],
-    "answer": "Ms Word"
+    "question": "Which Telangana district is known as the “Rice Bowl of Telangana”?",
+    "options": ["Karimnagar", "Nizamabad", "Suryapet", "Jagtial"],
+    "answer": "Nizamabad"
   },
   {
     "question": "Which country invented chess?",
@@ -61,9 +61,9 @@
     "answer": "Australia"
   },
   {
-    "question": "Which device used to store data permanently?",
-    "options": ["RAM", "Hard disk", "Cache", "Register"],
-    "answer": "Hard disk"
+    "question": "The Polavaram Project is built on which river??",
+    "options": ["Krishna", "Godavari", "Penna", "Kaveri"],
+    "answer": "Godavari"
   },
   {
     "question": "Who coined the slogan 'JAI HIND'?",
